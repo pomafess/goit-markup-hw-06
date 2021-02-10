@@ -859,7 +859,6 @@ img {
   border: 1px solid #2196f3;
 }
 .contact-form-check-policy:focus + .contact-form-policy-label::before {
-  outline: 1px solid var--(a);
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 2px;
